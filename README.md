@@ -31,6 +31,9 @@ career-progression map in one place.
 
 **➡ See the [Trade & Progression Index](TRADE-INDEX.md) for all 46 trades on one page.**
 
+**➡ See [Program Management](Program-Management/) for how the program is run** — the
+requirements-verification process and the Train → Assess → Document → Audit continuous-improvement loop.
+
 ## How I'd use this as a Training Manager
 This repository is the working model I'd bring into the role — a single, version-controlled
 source of truth for workforce development across every Tyonek subsidiary. Concretely:
