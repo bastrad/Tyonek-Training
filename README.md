@@ -1,8 +1,10 @@
 # Tyonek Training
 
 Training documentation for the subsidiary companies operating under the **Tyonek**
-umbrella. Each subsidiary has its own folder; within it, each work process has a
-folder containing a training document.
+umbrella. Each subsidiary has its own folder; within it, each work process has a folder
+containing its training document, certification requirements, and trade-progression
+pathway. The [Program Management](Program-Management/) area defines how the whole program
+is verified and continuously improved.
 
 ## Organization
 Work processes within each subsidiary are organized with **lean principles**:
@@ -11,6 +13,9 @@ functions are grouped under `Support-Processes/`.
 
 ```
 Tyonek-Training/
+├── README.md                         (this file)
+├── TRADE-INDEX.md                    (all 46 trades on one page)
+├── Program-Management/               (how the program runs: verification + improvement loop + templates)
 └── <Subsidiary>/
     ├── README.md                     (subsidiary overview)
     ├── Value-Stream/
@@ -53,6 +58,11 @@ source of truth for workforce development across every Tyonek subsidiary. Concre
 - **Organize with lean thinking.** Grouping each subsidiary into a flow-ordered value
   stream plus support processes keeps training focused on what delivers customer value —
   and makes it obvious where quality is built in as a value-stream station.
+- **Run it as a closed-loop system.** [Program Management](Program-Management/) documents how
+  I'd verify the *actual* requirements against authoritative sources, then run a
+  **Verify → Develop → Train → Assess → Document → Audit** improvement loop — including a
+  plain-language catalog of the governing material (OSHA, AS9100/AS9110, FAA Part 145, DoD,
+  EM 385-1-1, and more) that *mandates* training.
 - **Scale and hand off cleanly.** Because it's in Git, changes are tracked, reviewable,
   and auditable — the same discipline I'd apply to keeping a training program current as
   contracts, standards, and certifications evolve.

@@ -24,8 +24,10 @@ flowchart TD
 
 ## Stage 0 — Gap Analysis (Plan)
 For each verified requirement, ask: **Does standardized training content, an assessment
-method, and a qualified trainer already exist?** Use the *Training Needs / Gap Analysis*
-template. Any "no" routes to **Develop**. Any "yes" proceeds to **Train**.
+method, and a qualified trainer already exist?** Use the
+[Training Needs / Gap Analysis template](templates/Training-Needs-Gap-Analysis.md) — which
+also includes a plain-language primer and a catalog of the governing material that mandates
+training. Any "no" routes to **Develop**. Any "yes" proceeds to **Train**.
 
 ## Stage 1 — DEVELOP / UPDATE (Plan) — *the "if not already implemented" branch*
 Create or refresh the missing deliverable using **ISD / ADDIE** (leverage Mission Support's

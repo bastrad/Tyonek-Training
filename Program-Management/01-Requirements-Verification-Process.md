@@ -26,6 +26,12 @@ higher tier governs (and contract-specific terms can only add to, not waive, reg
 5. **Customer / OEM specifications** — drawing-called specs, source-control drawings, build-to-print.
 6. **State / local & business** — state licensing (e.g., Alaska GC), bonding/insurance, AHJ codes.
 
+> **Starting reference:** the [Training Needs / Gap Analysis template](templates/Training-Needs-Gap-Analysis.md)
+> includes a plain-language **catalog of the governing material that mandates training**
+> (OSHA, EPA/DOT, ISO 9001 / AS9100 / AS9110, FAA Part 145, IPC/AWS, NISPOM / DoD 8570,
+> EM 385-1-1). Use it as a ready-made checklist of regulatory sources when building each
+> Requirements Register — then confirm the exact citation and current revision here.
+
 ## 2. Process Steps
 Run this per work process (all 46), owned by the assigned Process Owner/SME with the Training
 Manager coordinating.

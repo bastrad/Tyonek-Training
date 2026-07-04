@@ -38,7 +38,15 @@ is the continuous-improvement engine (PDCA).
 | --- | --- |
 | [01-Requirements-Verification-Process.md](01-Requirements-Verification-Process.md) | Verify actual requirements for every work process against authoritative sources |
 | [02-Continuous-Improvement-Loop.md](02-Continuous-Improvement-Loop.md) | The Train → Assess → Document → Audit loop, Develop branch, lean-tool mapping, KPIs, cadence |
-| [templates/](templates) | Fillable forms that make the process runnable |
+
+### Templates (fillable forms that make the process runnable)
+| File | Purpose |
+| --- | --- |
+| [Requirements-Verification-Register.md](templates/Requirements-Verification-Register.md) | One row per requirement; verify source, citation, applicability, and classification |
+| [Training-Needs-Gap-Analysis.md](templates/Training-Needs-Gap-Analysis.md) | Plain-language primer **+ a catalog of the governing material that mandates training** (OSHA, AS9100/AS9110, FAA Part 145, DoD, EM 385-1-1, etc.) + gap worksheet |
+| [Competency-Assessment-Record.md](templates/Competency-Assessment-Record.md) | Knowledge check + practical demonstration sign-off (the competency gate) |
+| [Internal-Training-Audit-Checklist.md](templates/Internal-Training-Audit-Checklist.md) | Quarterly audit questions + finding routing |
+| [Corrective-Action-A3.md](templates/Corrective-Action-A3.md) | One-page lean A3 for systemic gaps |
 
 ## How this uses lean
 - **PDCA (Plan-Do-Check-Act):** the whole loop is one continuous PDCA cycle.
