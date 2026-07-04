@@ -48,6 +48,10 @@ is the continuous-improvement engine (PDCA).
 | [Internal-Training-Audit-Checklist.md](templates/Internal-Training-Audit-Checklist.md) | Quarterly audit questions + finding routing |
 | [Corrective-Action-A3.md](templates/Corrective-Action-A3.md) | One-page lean A3 for systemic gaps |
 
+### Worked examples
+See [examples/](examples) for a completed **Welding** Requirements Register and Gap Analysis —
+a concrete demonstration of what the templates look like filled in.
+
 ## How this uses lean
 - **PDCA (Plan-Do-Check-Act):** the whole loop is one continuous PDCA cycle.
 - **Standard Work:** each training doc + assessment is the standard; deviations are visible.
