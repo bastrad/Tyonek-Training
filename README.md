@@ -16,6 +16,7 @@ Tyonek-Training/
 ├── README.md                         (this file)
 ├── TRADE-INDEX.md                    (all 46 trades on one page)
 ├── Program-Management/               (how the program runs: verification + improvement loop + templates)
+├── references/                       (governing standards library + official link directory)
 └── <Subsidiary>/
     ├── README.md                     (subsidiary overview)
     ├── Value-Stream/
@@ -38,6 +39,9 @@ career-progression map in one place.
 
 **➡ See [Program Management](Program-Management/) for how the program is run** — the
 requirements-verification process and the Train → Assess → Document → Audit continuous-improvement loop.
+
+**➡ See [references/](references/) for the standards library and the official
+[link directory](references/Training-and-Certification-Links.md)** for training/certification review.
 
 ## How I'd use this as a Training Manager
 This repository is the working model I'd bring into the role — a single, version-controlled
