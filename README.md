@@ -17,6 +17,7 @@ Tyonek-Training/
 ├── TRADE-INDEX.md                    (all 46 trades on one page)
 ├── Program-Management/               (how the program runs: verification + improvement loop + templates)
 ├── References/                       (governing standards library + official link directory)
+├── Interview Prep/                   (how I prepared for this role — shared openly)
 └── <Subsidiary>/
     ├── README.md                     (subsidiary overview)
     ├── Value-Stream/
@@ -42,6 +43,9 @@ requirements-verification process and the Train → Assess → Document → Audi
 
 **➡ See [References/](References/) for the standards library and the official
 [link directory](References/Training-and-Certification-Links.md)** for training/certification review.
+
+**➡ See [Interview Prep/](Interview%20Prep/) for how I prepared for this role** — a one-page
+summary and the questions I expect, with honest answers. Shared openly on purpose.
 
 ## How I'd use this as a Training Manager
 This repository is the working model I'd bring into the role — a single, version-controlled
