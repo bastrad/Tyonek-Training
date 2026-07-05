@@ -15,6 +15,7 @@ functions are grouped under `Support-Processes/`.
 Tyonek-Training/
 ├── README.md                         (this file)
 ├── TRADE-INDEX.md                    (all 46 trades on one page)
+├── Initial/                          (how I'd discover the company's current state on day one)
 ├── Program-Management/               (how the program runs: verification + improvement loop + templates)
 ├── References/                       (governing standards library + official link directory)
 ├── Interview Prep/                   (how I prepared for this role — shared openly)
