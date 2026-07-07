@@ -1,5 +1,4 @@
-# Training Manager — [Your Name]
-*Candidate leave-behind · [Date]*
+# Training Manager — Daniel
 
 ---
 
