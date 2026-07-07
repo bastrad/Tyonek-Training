@@ -1,3 +1,7 @@
+🏠 [Home](README.md) · *Guided Tour — Stop 3: Every Job at a Glance*
+
+---
+
 # Trade & Progression Index
 
 Every Tyonek work process mapped to its recognized **U.S. DOL / O*NET-SOC** skilled-trade
@@ -88,3 +92,7 @@ Apprentice → Journeyman → Master progression program.
   professional tier (drafting, engineering technician, safety, logistics, construction inspection).
 - **Credential-based** roles (procurement, security/FSO, accounting, HR, ISD, strategic
   planning, most construction management) progress through certification/licensure ladders.
+
+---
+
+▶ **Next tour stop:** [Stop 4 — Discover the current state (Initial/)](Initial/)

@@ -1,3 +1,7 @@
+🏠 [Home](../README.md) · *Guided Tour — Stop 4: Discover the Current State*
+
+---
+
 # Initial — Current-State Discovery (Lean Six Sigma / DMAIC)
 
 The **Initial phase** is how I'd learn what the company already has for training across every
@@ -58,3 +62,5 @@ gantt
 ---
 
 **Start ➡** [1 · Define](1-Define.md)
+
+*Or skip ahead in the main tour:* ▶ **[Stop 5 — Program-Management](../Program-Management/)**

@@ -1,3 +1,11 @@
+🏠 [Home](../../../README.md) · *Guided Tour — Stop 2: One Job Up Close*
+
+> **New here?** This is one example job. Every one of the 46 jobs has a folder like this with
+> three files: this training document (`README.md`), its `CERTIFICATIONS.md`, and its
+> `TRADE-PROGRESSION.md` (career path).
+
+---
+
 # Welding — Training Document
 
 **Subsidiary:** Tyonek Manufacturing Group, Inc.
