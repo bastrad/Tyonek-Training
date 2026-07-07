@@ -1,3 +1,7 @@
+🏠 [Home](../README.md) · *Guided Tour — Stop 5: Operate & Improve*
+
+---
+
 # Program Management — Training Verification & Continuous Improvement
 
 This area defines **how the training program actually runs** across all four Tyonek
@@ -43,7 +47,7 @@ is the continuous-improvement engine (PDCA).
 | File | Purpose |
 | --- | --- |
 | [Requirements-Verification-Register.md](templates/Requirements-Verification-Register.md) | One row per requirement; verify source, citation, applicability, and classification |
-| [Training-Needs-Gap-Analysis.md](templates/Training-Needs-Gap-Analysis.md) | Plain-language primer **+ a catalog of the governing material that mandates training** (OSHA, AS9100/AS9110, FAA Part 145, DoD, EM 385-1-1, etc.) + gap worksheet |
+| [Training-Needs-Gap-Analysis.md](templates/Training-Needs-Gap-Analysis.md) | Plain-language primer + current-state checklist + gap worksheet (pulls its required list from the [governing-standards catalog](../References/Governing-Standards-Reference.md)) |
 | [Competency-Assessment-Record.md](templates/Competency-Assessment-Record.md) | Knowledge check + practical demonstration sign-off (the competency gate) |
 | [Internal-Training-Audit-Checklist.md](templates/Internal-Training-Audit-Checklist.md) | Quarterly audit questions + finding routing |
 | [Corrective-Action-A3.md](templates/Corrective-Action-A3.md) | One-page lean A3 for systemic gaps |
@@ -76,3 +80,7 @@ the other subsidiaries — an internal center of excellence for courseware.
 | **Quality (QA)** | Standards mapping, internal audits, CAPA |
 | **Security (FSO)** | Clearance, NISPOM, COMSEC, controlled-material training requirements |
 | **Human Resources** | Records retention, apprenticeship registration, OFCCP compliance |
+
+---
+
+▶ **Next tour stop:** [Stop 6 — Reference Library (References/)](../References/)

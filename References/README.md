@@ -1,3 +1,7 @@
+🏠 [Home](../README.md) · *Guided Tour — Stop 6: Reference Library*
+
+---
+
 # References
 
 A reference library for the Tyonek training program — the governing material that drives
@@ -7,7 +11,7 @@ training and certification, plus a directory of official sources for review as a
 | File / folder | What it is |
 | --- | --- |
 | [Training-and-Certification-Links.md](Training-and-Certification-Links.md) | **The link directory** — official websites for every regulation, standard, certification, and apprenticeship resource referenced across this repo. |
-| [Governing-Standards-Reference.md](Governing-Standards-Reference.md) | A reference "card" for each governing standard: what it is, who issues it, its training relevance, recurrence, and where to obtain the authoritative text. |
+| [Governing-Standards-Reference.md](Governing-Standards-Reference.md) | **The single catalog** of what requires training — every governing standard with plain-language "what it requires," who it applies to, recurrence, and where to obtain it. |
 | [public-domain-copies/](public-domain-copies) | Plain-text reference extracts of **public-domain U.S. government regulations** (free to copy). |
 
 ## Important — copyright & sourcing boundary
@@ -27,5 +31,10 @@ This is a U.S. Government contract environment, and reference integrity matters.
   during requirements verification (`../Program-Management/01-Requirements-Verification-Process.md`).
 
 ## Related
-- Governing-material catalog (plain-language, per work process): [Training Needs / Gap Analysis template](../Program-Management/templates/Training-Needs-Gap-Analysis.md)
+- The plain-language governing-material catalog lives here in [Governing-Standards-Reference.md](Governing-Standards-Reference.md); the [Gap Analysis worksheet](../Program-Management/templates/Training-Needs-Gap-Analysis.md) pulls its required list from it.
 - Per-process certification lists: each work process's `CERTIFICATIONS.md`
+
+---
+
+✅ **That completes the Guided Tour.** Head back to [Home](../README.md), or dig into any
+company folder to explore its jobs.
