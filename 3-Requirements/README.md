@@ -25,5 +25,12 @@ The [governing-standards catalog](Governing-Standards-Reference.md) plus each jo
 `CERTIFICATIONS.md` (Phase 2) together form the **required list** — the "answer key" that
 [Phase 4](../4-Discover-and-Analyze/) compares the company's current state against.
 
+## 🤖 AI Assist
+- **Extract flowed-down requirements** from a contract/SOW/PWS — AI pulls the training/cert
+  clauses; a human verifies against the actual text.
+- **Monitor standard/regulation changes** and flag which jobs are affected.
+- ⚠️ Higher risk: contract data may be **CUI** — use an **accredited** AI tool, and **verify every
+  citation** (AI invents regulation details). See [AI-Assist Strategy](../1-Overview/AI-Assist-Strategy.md).
+
 ---
 ◀ [Previous: Phase 2 · The Jobs](../2-The-Jobs/) · **Next ▶** [Phase 4 · Discover & Analyze](../4-Discover-and-Analyze/)

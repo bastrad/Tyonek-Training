@@ -31,5 +31,12 @@ and their trades, see the [Trade & Progression Index](Trade-and-Progression-Inde
 *Grouping by discipline unifies roles that were split across companies — e.g., all four Quality
 functions, all Engineering roles, and all Training/Instruction roles now sit together.*
 
+## 🤖 AI Assist
+- **Draft a new job's three files** (training doc + certifications + trade-progression) from a
+  short description plus the [governing-standards catalog](../3-Requirements/Governing-Standards-Reference.md) — AI produces the first draft, an SME verifies.
+- **Refresh/standardize** existing job docs to the template.
+- Source material here is largely public, so commercial AI is usually fine — but a qualified SME
+  must confirm technical accuracy. See [AI-Assist Strategy](../1-Overview/AI-Assist-Strategy.md).
+
 ---
 ◀ [Previous: Phase 1 · Overview](../1-Overview/) · **Next ▶** [Phase 3 · Requirements](../3-Requirements/)

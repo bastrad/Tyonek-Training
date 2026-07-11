@@ -35,6 +35,11 @@ Start at **[1-Overview](1-Overview/)** — it explains what we're trying to acco
 language, defines every key term, and shows how the six phases fit together. Then keep clicking
 **Next ▶** at the bottom of each phase.
 
+## Using AI to accelerate this
+See **[AI-Assist Strategy](1-Overview/AI-Assist-Strategy.md)** for where AI can speed up building
+and running the program — and the government-contract guardrails for doing it safely. Each phase
+also carries a short 🤖 **AI Assist** note.
+
 ---
 *A working model of a Tyonek training program, built from public information and public
 standards. It shows both the structure of the program and how it would be run.*

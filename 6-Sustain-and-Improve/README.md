@@ -35,5 +35,12 @@ open audit findings & closure time, apprentices advancing tiers, retention / fil
 New contracts, standard revisions, and audit findings re-trigger [Phase 3](../3-Requirements/)
 and [Phase 4](../4-Discover-and-Analyze/) for the affected area — the program stays current.
 
+## 🤖 AI Assist
+- **Summarize audit findings** and **draft CAPA/A3s**; suggest root causes.
+- **Analyze KPI trends** and draft the management-review summary.
+- **Monitor cert expirations & standard revisions** to auto-flag affected jobs (feeds the re-trigger).
+- Audit/records data may be sensitive — use an accredited tool; SME owns every decision. See
+  [AI-Assist Strategy](../1-Overview/AI-Assist-Strategy.md).
+
 ---
 ◀ [Previous: Phase 5 · Develop · Deliver · Assess](../5-Develop-Deliver-Assess/) · **Back to** [Home](../README.md)

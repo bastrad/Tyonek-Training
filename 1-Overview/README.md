@@ -48,5 +48,12 @@ Tyonek's four subsidiaries are the *scope* of the program. In this repo the jobs
 | **Gap** | The difference between what's *required* and what people *currently* have |
 | **DMAIC** | A Lean Six Sigma method used in Phase 4: Define, Measure, Analyze, Improve, Control |
 
+## 🤖 Using AI to speed this up
+This program is a strong candidate for AI assistance — drafting new job files, generating
+courseware, extracting requirements, and monitoring for change. See
+**[AI-Assist-Strategy.md](AI-Assist-Strategy.md)** for where AI helps in each phase and — critical
+for a government contractor — the guardrails for doing it safely (data classification, SME
+sign-off, citation checks).
+
 ---
 ◀ *You're at the start* · **Next ▶** [Phase 2 · The Jobs](../2-The-Jobs/)

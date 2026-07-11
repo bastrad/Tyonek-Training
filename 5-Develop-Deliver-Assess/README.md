@@ -25,5 +25,14 @@ This is the **Jidoka** (build-quality-in) point of the program: competency is th
 unqualified work doesn't proceed. Develop → Deliver → Assess is the "Do" of the continuous loop
 described in [Phase 6](../6-Sustain-and-Improve/).
 
+## 🤖 AI Assist — the biggest win
+This is where AI accelerates **future training generation** the most:
+- **Generate courseware** from a job's training doc + its standards — learning objectives, lesson
+  plans, job aids, scenarios, and 508-accessible eLearning scripts.
+- **Generate assessment items** — knowledge-check questions and practical-demonstration checklists.
+- Largely public source material (commercial AI usually OK), but an **SME must verify technical
+  accuracy** against the authoritative standard. **Start the AI pilot here.** See
+  [AI-Assist Strategy](../1-Overview/AI-Assist-Strategy.md).
+
 ---
 ◀ [Previous: Phase 4 · Discover & Analyze](../4-Discover-and-Analyze/) · **Next ▶** [Phase 6 · Sustain & Improve](../6-Sustain-and-Improve/)

@@ -25,5 +25,11 @@ Every gap routes to an action in the next phases:
 - **Train** or **Develop** new material → [Phase 5](../5-Develop-Deliver-Assess/)
 - **Records / audit** fixes → [Phase 6](../6-Sustain-and-Improve/)
 
+## 🤖 AI Assist
+- **Ingest current-state records** and map them to the required list; **suggest RAG ratings**.
+- **Draft the Initial Findings Report** and assist **5-Whys** root-cause analysis.
+- Records may contain **PII** — use an accredited tool; an SME confirms every rating and finding.
+  See [AI-Assist Strategy](../1-Overview/AI-Assist-Strategy.md).
+
 ---
 ◀ [Previous: Phase 3 · Requirements](../3-Requirements/) · **Next ▶** [Phase 5 · Develop · Deliver · Assess](../5-Develop-Deliver-Assess/)
